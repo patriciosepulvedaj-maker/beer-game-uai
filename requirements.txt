@@ -1,5 +1,5 @@
-streamlit>=1.31.0
-pandas>=2.1.0
-altair>=5.0.0
-openpyxl>=3.1.2
-google-generativeai>=3.1.2
+streamlit
+pandas
+altair
+openpyxl
+google-generativeai
